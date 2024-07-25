@@ -17,13 +17,13 @@ SCT-mem-api is a C library for writing memory to external programs on Windows. I
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/SeanProgramming/SCT-mem-api.git
+   git clone https://github.com/SeanProgramming/sct-mem-api.git
    ```
 
 2. **Go to the project directory:**
 
    ```sh
-   cd SCT-mem-api
+   cd sct-mem-api
    ```
 
 3. **Create a build directory:**
@@ -63,4 +63,4 @@ MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For questions, email [your-email@example.com](mailto:your-email@example.com).
+For questions, email sean.pilonb@gmail.com
